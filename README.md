@@ -1,6 +1,7 @@
 ### Hey, i'm yesterday! 
 
 - 🔭 Programador por Hobby
+- 📒 Futuro Engenheiro de Software
 - 💬 Estudante de JavaScript, TypeScript e React
 - 😄 Pronouns: Sim
 
