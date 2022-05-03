@@ -2,8 +2,7 @@
 
 - 🔭 Programador por Hobby
 - 📒 Futuro Engenheiro de Software
-- 💬 Estudante de JavaScript, TypeScript e React
-- 😄 Pronouns: Sim
+- 💬 Estudante de JavaScript, Html e Css.
 
 <div align="center">
   <a href="https://github.com/yessterday">
