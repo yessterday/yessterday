@@ -3,6 +3,8 @@
 - 🔭 Programador por Hobby
 - 📒 Futuro Engenheiro de Software
 - 💬 Estudante de JavaScript, Html e Css.
+- 😊 pronouns: Sim
+
 
 <div align="center">
   <a href="https://github.com/yessterday">
