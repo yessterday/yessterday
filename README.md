@@ -1,9 +1,9 @@
-### Hey, i'm yesterday! 
+### Olá, me chamo Fernando Castro! Sou estudante de Análise e Desenvolvimento de Sistemas.  
 
 - 🔭 Programador por Hobby
 - 📒 Futuro Engenheiro de Software
 - 💬 Estudante de JavaScript, Html e Css.
-- 😊 pronouns: Sim
+
 
 
 <div align="center">
