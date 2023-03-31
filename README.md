@@ -17,7 +17,6 @@
   <img align="center" alt="yester-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="yester-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="yester-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="yester-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="yester-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/845867419264090152/950929278638358548/img61a06699053051.64701472.jpg">
 </div>
  
