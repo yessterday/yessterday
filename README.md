@@ -1,3 +1,6 @@
+### Seja bem vindo(a)!
+##
+
 ### Olá, me chamo Fernando Castro! 
 - Atualmente estou cursando Tecnólogo Análise e Desenvolvimento de Sistemas.  
 ###
