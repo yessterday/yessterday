@@ -15,7 +15,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yessterday&bg_color=000014&color=b7cece&line=f7e967&point=a2c2d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yessterday&bg_color=000014&color=b7cece&line=f7e967&point=a2c2d0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
