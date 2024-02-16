@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7E967&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)!;Olá,+Meu+nome+é+Fernando+Castro;Tenho+21+anos!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7E967&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo(a)!;Olá,+Meu+nome+é+Fernando+Castro;Tenho+22+anos!+:%29)](https://git.io/typing-svg)
 
 - Atualmente estou cursando Tecnólogo de Análise e Desenvolvimento de Sistemas.  
-- Procuro me tornar um Desenvolvedor FullStack. 
+- No momento estou estudando Front-end, mas no futuro pretendo me tornar um desenvolvedor Full-stack. 
 - Estudante de JavaScript, Html, Css e Java.
 ##
 
